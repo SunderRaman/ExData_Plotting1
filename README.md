@@ -112,3 +112,5 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+# Four Plot "R" files and the 4 output (.png) files have been uploaded. In addition, "ReadDataSubset.R" reads the data and creates the DataFeb subset for plotting purposes.
+
